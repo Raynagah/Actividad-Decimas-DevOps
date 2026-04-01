@@ -29,6 +29,3 @@ jobs:
       - name: Push Docker image
         run: |
           docker push ${{ secrets.DOCKERHUB_USERNAME }}/ImagenDocker:latest
-
-      - name: Finalización Exitosa
-        run: echo "🚀 Imagen subida: ${{ secrets.DOCKERHUB_USERNAME }}/ImagenDocker:latest"
