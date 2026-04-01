@@ -1,1 +1,1 @@
-borrar
+Para el desarrollo de esta actividad utilizamos TBD, el cual consiste en desarrollar funcionalidades mediante ramas de corta duración. El propósito de este repositorio es llevar a cabo una actividad con décimas en dúos para la asignatura de "Introducción a Herramientas DevOps".
